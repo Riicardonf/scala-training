@@ -1,0 +1,6 @@
+
+GET / controllers.PersonController.index
+
+POST / controllers.PersonController.create
+
+GET /person/:id controllers.PersonController.show(id: Long)
