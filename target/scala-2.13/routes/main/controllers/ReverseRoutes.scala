@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
 // @SOURCE:R:/JavaProjects/ScalaAPI/conf/routes
-// @DATE:Wed Oct 28 21:41:06 BRT 2020
+// @DATE:Tue Nov 03 23:05:19 BRST 2020
 
 import play.api.mvc.Call
 
@@ -17,22 +17,34 @@ package controllers {
     }
 
   
+    // @LINE:6
+    def delete(id:Long): Call = {
+      
+      Call("DELETE", _prefix + { _defaultPrefix } + "person/" + play.core.routing.dynamicString(implicitly[play.api.mvc.PathBindable[Long]].unbind("id", id)))
+    }
+  
     // @LINE:4
+    def show(id:Long): Call = {
+      
+      Call("GET", _prefix + { _defaultPrefix } + "person/" + play.core.routing.dynamicString(implicitly[play.api.mvc.PathBindable[Long]].unbind("id", id)))
+    }
+  
+    // @LINE:3
     def create(): Call = {
       
-      Call("POST", _prefix)
+      Call("POST", _prefix + { _defaultPrefix } + "person")
+    }
+  
+    // @LINE:5
+    def update(id:Long): Call = {
+      
+      Call("PUT", _prefix + { _defaultPrefix } + "person/" + play.core.routing.dynamicString(implicitly[play.api.mvc.PathBindable[Long]].unbind("id", id)))
     }
   
     // @LINE:2
     def index(): Call = {
       
-      Call("GET", _prefix)
-    }
-  
-    // @LINE:6
-    def show(id:Long): Call = {
-      
-      Call("GET", _prefix + { _defaultPrefix } + "person/" + play.core.routing.dynamicString(implicitly[play.api.mvc.PathBindable[Long]].unbind("id", id)))
+      Call("GET", _prefix + { _defaultPrefix } + "person")
     }
   
   }

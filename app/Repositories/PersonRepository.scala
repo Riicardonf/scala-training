@@ -3,6 +3,8 @@ package Repositories
 import javax.inject.{Inject, Singleton}
 import models.Person
 import play.api.db.slick.DatabaseConfigProvider
+import play.twirl.api.TemplateMagic.anyToDefault
+import shapeless.syntax.std.tuple.productTupleOps
 import slick.jdbc.JdbcProfile
 
 import scala.concurrent.{ExecutionContext, Future}
@@ -56,6 +58,13 @@ class PersonRepository @Inject() (dbConfigProvider: DatabaseConfigProvider)(impl
 
   def show(id: Long): Future[Option[Person]] = db.run {
     person.filter(_.id === id).result.headOption
+  }
 
+  def update(name: String, age: Int, id: Long): Future[Boolean] = db.run {
+    person.filter(_.id === id).map( p => (p.name, p.age)).update((name, age)).map { rows => rows > 0}
+  }
+
+  def delete(id: Long) = db.run{
+    person.filter(_.id === id).delete.map { rows => rows > 0}
   }
 }

@@ -42,7 +42,32 @@ class PersonController @Inject()(repository: PersonRepository, controllerCompone
       repository.show(id).map { p =>
            Ok(Json.toJson(p)).as("application/json")
         }
+  }
+
+  def update(id: Long) = Action.async { implicit request =>
+    personForm.bindFromRequest.fold(
+      errorForm => {
+        Future.successful(Redirect(routes.PersonController.index()))
+      },
+      person => {
+        repository.update(person.name, person.age, id: Long).map {
+          case true => Ok(Json.obj("status" -> "sucess")).as("application/json")
+          case false => UnprocessableEntity
+        }.recoverWith{
+          case e => Future { InternalServerError("Error: " + e)}
+        }
       }
+    )
+  }
+
+  def delete(id: Long) = Action.async { implicit request =>
+    repository.delete(id).map {
+      case true => Ok(Json.obj("status" -> "success")).as("application/json")
+      case false => UnprocessableEntity
+    }.recoverWith{
+      case e => Future { InternalServerError("ERROR: " + e) }
+    }
+  }
 
 
 }

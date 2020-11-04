@@ -1,6 +1,6 @@
 
-GET / controllers.PersonController.index
-
-POST / controllers.PersonController.create
-
-GET /person/:id controllers.PersonController.show(id: Long)
+GET /person                    controllers.PersonController.index
+POST /person                   controllers.PersonController.create
+GET /person/:id                controllers.PersonController.show(id: Long)
+PUT /person/:id                controllers.PersonController.update(id: Long)
+DELETE /person/:id             controllers.PersonController.delete(id: Long)

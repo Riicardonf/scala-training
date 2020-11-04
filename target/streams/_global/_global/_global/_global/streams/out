@@ -1,0 +1,383 @@
+[debug] [watch] [root / Compile / run] Found inputs: R:\JavaProjects\ScalaAPI\*.{java,scala},R:\JavaProjects\ScalaAPI\app\**\*,R:\JavaProjects\ScalaAPI\app\**\*.{java,scala},FullFileGlob(R:\JavaProjects\ScalaAPI\app,true,PatternFilter(.*\Q.scala.\E.*) && !HiddenFileFilter),R:\JavaProjects\ScalaAPI\app-2.13\**\*.{java,scala},FullFileGlob(R:\JavaProjects\ScalaAPI\app\assets,true,AllPassFilter && !HiddenFileFilter),R:\JavaProjects\ScalaAPI\app\controllers\**\*,R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,R:\JavaProjects\ScalaAPI\app\ErrorHandler.scala,R:\JavaProjects\ScalaAPI\app\models\**\*,R:\JavaProjects\ScalaAPI\app\models\Person.scala,R:\JavaProjects\ScalaAPI\app\Repositories\**\*,R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,R:\JavaProjects\ScalaAPI\app\RequestHandler.scala,R:\JavaProjects\ScalaAPI\conf\**\*,R:\JavaProjects\ScalaAPI\conf\routes,FullFileGlob(R:\JavaProjects\ScalaAPI\public,true,AllPassFilter && !HiddenFileFilter),FullFileGlob(R:\JavaProjects\ScalaAPI\test,true,PatternFilter(.*\Q.scala.\E.*) && !HiddenFileFilter),FullFileGlob(R:\JavaProjects\ScalaAPI\test\assets,true,AllPassFilter && !HiddenFileFilter),FullFileGlob(R:\JavaProjects\ScalaAPI\test\public,true,AllPassFilter && !HiddenFileFilter)
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes
+[debug] Received Update(R:\JavaProjects\ScalaAPI\conf\routes,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\conf\routes~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\conf\routes~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\controllers\PersonController.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\controllers
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\controllers,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Creation(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~
+[debug] Received Deletion(R:\JavaProjects\ScalaAPI\app\Repositories\PersonRepository.scala~,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] root / Compile / run - Accepted event for R:\JavaProjects\ScalaAPI\app\Repositories
+[debug] Received Update(R:\JavaProjects\ScalaAPI\app\Repositories,FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false),FileAttributes(isDirectory = true, isOther = false,isRegularFile = false, isSymbolicLink = false))

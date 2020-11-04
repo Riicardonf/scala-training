@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
 // @SOURCE:R:/JavaProjects/ScalaAPI/conf/routes
-// @DATE:Wed Oct 28 21:41:06 BRT 2020
+// @DATE:Tue Nov 03 23:05:19 BRST 2020
 
 import play.api.routing.JavaScriptReverseRoute
 
@@ -18,12 +18,42 @@ package controllers.javascript {
     }
 
   
+    // @LINE:6
+    def delete: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.PersonController.delete",
+      """
+        function(id0) {
+          return _wA({method:"DELETE", url:"""" + _prefix + { _defaultPrefix } + """" + "person/" + encodeURIComponent((""" + implicitly[play.api.mvc.PathBindable[Long]].javascriptUnbind + """)("id", id0))})
+        }
+      """
+    )
+  
     // @LINE:4
+    def show: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.PersonController.show",
+      """
+        function(id0) {
+          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "person/" + encodeURIComponent((""" + implicitly[play.api.mvc.PathBindable[Long]].javascriptUnbind + """)("id", id0))})
+        }
+      """
+    )
+  
+    // @LINE:3
     def create: JavaScriptReverseRoute = JavaScriptReverseRoute(
       "controllers.PersonController.create",
       """
         function() {
-          return _wA({method:"POST", url:"""" + _prefix + """"})
+          return _wA({method:"POST", url:"""" + _prefix + { _defaultPrefix } + """" + "person"})
+        }
+      """
+    )
+  
+    // @LINE:5
+    def update: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.PersonController.update",
+      """
+        function(id0) {
+          return _wA({method:"PUT", url:"""" + _prefix + { _defaultPrefix } + """" + "person/" + encodeURIComponent((""" + implicitly[play.api.mvc.PathBindable[Long]].javascriptUnbind + """)("id", id0))})
         }
       """
     )
@@ -33,17 +63,7 @@ package controllers.javascript {
       "controllers.PersonController.index",
       """
         function() {
-          return _wA({method:"GET", url:"""" + _prefix + """"})
-        }
-      """
-    )
-  
-    // @LINE:6
-    def show: JavaScriptReverseRoute = JavaScriptReverseRoute(
-      "controllers.PersonController.show",
-      """
-        function(id0) {
-          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "person/" + encodeURIComponent((""" + implicitly[play.api.mvc.PathBindable[Long]].javascriptUnbind + """)("id", id0))})
+          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "person"})
         }
       """
     )

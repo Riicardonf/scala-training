@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
 // @SOURCE:R:/JavaProjects/ScalaAPI/conf/routes
-// @DATE:Wed Oct 28 21:41:06 BRT 2020
+// @DATE:Tue Nov 03 23:05:19 BRST 2020
 
 package controllers;
 
